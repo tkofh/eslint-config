@@ -10,7 +10,7 @@
   "command": {
     "version": {
       "allowBranch": ["main"],
-      "message": "chore(release): publish %s"
+      "message": "chore(release): publish"
     },
     "publish": {
       "npmClient": "npm"

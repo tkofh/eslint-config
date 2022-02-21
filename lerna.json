@@ -8,6 +8,10 @@
     "packages/*"
   ],
   "command": {
+    "version": {
+      "allowBranch": ["main"],
+      "message": "chore(release): publish %s"
+    },
     "publish": {
       "npmClient": "npm"
     },

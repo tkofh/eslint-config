@@ -1,6 +1,6 @@
 module.exports = {
   root: true,
-  extends: ['@tkofh', 'plugin:vue/recommended'],
+  extends: ['@tkofh', 'plugin:vue/vue3-recommended'],
   plugins: ['vue'],
   rules: {
     'vue/no-parsing-error': ['error', {

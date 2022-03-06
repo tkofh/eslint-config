@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.1.1](https://github.com/tkofh/eslint-config/compare/@tkofh/eslint-config-vue@0.1.0...@tkofh/eslint-config-vue@0.1.1) (2022-03-06)
+
+
+### Bug Fixes
+
+* use vue3 recommended ([f65b2ec](https://github.com/tkofh/eslint-config/commit/f65b2ecdc0eb87df3839f46da7974cd86fce4c7e))
+
+
+
+
+
 # 0.1.0 (2022-03-06)
 
 

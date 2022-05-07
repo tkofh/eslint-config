@@ -1,6 +1,6 @@
 {
   "name": "@tkofh/eslint-config",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "tkofh's eslint config",
   "repository": "tkofh/eslint-config",
   "license": "MIT",

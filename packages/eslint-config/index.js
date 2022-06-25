@@ -26,6 +26,11 @@ module.exports = {
   rules: {
     '@typescript-eslint/no-unused-vars': ['error', { args: 'all', argsIgnorePattern: '^_', ignoreRestSiblings: true }],
     '@typescript-eslint/no-non-null-assertion': 'off',
+    '@typescript-eslint/member-delimiter-style': ['error', { multiline: { delimiter: 'none' } }],
+    '@typescript-eslint/type-annotation-spacing': ['error', {}],
+    '@typescript-eslint/consistent-type-imports': ['error', { prefer: 'type-imports', disallowTypeAnnotations: false }],
+    '@typescript-eslint/consistent-type-definitions': ['error', 'interface'],
+    '@typescript-eslint/prefer-ts-expect-error': 'error',
     '@typescript-eslint/ban-ts-comment': ['error', {
       'ts-expect-error': 'allow-with-description',
       'ts-ignore': 'allow-with-description',
@@ -35,7 +40,8 @@ module.exports = {
     }],
     'no-unused-vars': 'off',
     'no-undef': 'off',
-
+    'no-useless-constructor': 'off',
+    'import/named': 'off',
     'import/order': 'error',
     'import/first': 'error',
     'import/no-mutable-exports': 'error',

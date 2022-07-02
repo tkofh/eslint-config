@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.4.1](https://github.com/tkofh/eslint-config/compare/@tkofh/eslint-config@0.4.0...@tkofh/eslint-config@0.4.1) (2022-07-02)
+
+
+### Bug Fixes
+
+* **eslint-config:** add dependency for eslint-plugin-n ([22dfc0c](https://github.com/tkofh/eslint-config/commit/22dfc0c9d15a13d99e91c51bf352e5f7ca3723fb))
+
+
+
+
+
 # [0.4.0](https://github.com/tkofh/eslint-config/compare/@tkofh/eslint-config@0.3.1...@tkofh/eslint-config@0.4.0) (2022-07-02)
 
 **Note:** Version bump only for package @tkofh/eslint-config

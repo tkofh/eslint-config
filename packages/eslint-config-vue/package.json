@@ -8,11 +8,10 @@
     "index.js"
   ],
   "dependencies": {
-    "@tkofh/eslint-config": "0.3.1",
-    "eslint-plugin-vue": "^8.1.1"
+    "@tkofh/eslint-config": "workspace:*",
+    "eslint-plugin-vue": "^9.1.1"
   },
   "peerDependencies": {
-    "@typescript-eslint/eslint-plugin": "^5.5.0",
     "eslint": "^8.3.0"
   },
   "publishConfig": {

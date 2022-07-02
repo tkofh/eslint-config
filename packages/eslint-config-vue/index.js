@@ -13,8 +13,7 @@ module.exports = {
       },
     },
   ],
-  extends: ['@tkofh', 'plugin:vue/vue3-recommended'],
-  plugins: ['vue'],
+  extends: ['plugin:vue/vue3-recommended', '@tkofh'],
   rules: {
     'vue/max-attributes-per-line': 'off',
     'vue/no-v-html': 'off',

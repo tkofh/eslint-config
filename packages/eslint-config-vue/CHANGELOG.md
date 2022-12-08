@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.5.0](https://github.com/tkofh/eslint-config/compare/@tkofh/eslint-config-vue@0.4.1...@tkofh/eslint-config-vue@0.5.0) (2022-12-08)
+
+
+### Features
+
+* update deps and move to pnpm ([3c5ebb1](https://github.com/tkofh/eslint-config/commit/3c5ebb11d508b17870e6eaf98b305fc73fcf16ad))
+
+
+
+
+
 ## [0.4.1](https://github.com/tkofh/eslint-config/compare/@tkofh/eslint-config-vue@0.4.0...@tkofh/eslint-config-vue@0.4.1) (2022-07-02)
 
 **Note:** Version bump only for package @tkofh/eslint-config-vue

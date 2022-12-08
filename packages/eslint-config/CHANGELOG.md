@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.5.2](https://github.com/tkofh/eslint-config/compare/@tkofh/eslint-config@0.5.1...@tkofh/eslint-config@0.5.2) (2022-12-08)
+
+
+### Reverts
+
+* **eslint-config:** no longer use @typescript-eslint/consistent-type-exports ([8d50a2b](https://github.com/tkofh/eslint-config/commit/8d50a2bcbee9d1756ffaf7f9336d2d1a2a2a9cee))
+
+
+
+
+
 ## [0.5.1](https://github.com/tkofh/eslint-config/compare/@tkofh/eslint-config@0.5.0...@tkofh/eslint-config@0.5.1) (2022-12-08)
 
 

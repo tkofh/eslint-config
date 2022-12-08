@@ -1,8 +1,5 @@
 {
   "private": true,
-  "workspaces": [
-    "packages/*"
-  ],
   "scripts": {
     "lint": "eslint . --config=packages/eslint-config/index.js",
     "release": "lerna publish",
@@ -12,6 +9,7 @@
     "@commitlint/cli": "^17.0.3",
     "@commitlint/config-conventional": "^17.0.3",
     "@commitlint/config-lerna-scopes": "^17.0.2",
+    "commitlint-plugin-workspace-scopes": "^1.1.0",
     "eslint": "^8.19.0",
     "husky": ">=7.0.4",
     "lerna": "^5.1.6"

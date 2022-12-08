@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.5.1](https://github.com/tkofh/eslint-config/compare/@tkofh/eslint-config@0.5.0...@tkofh/eslint-config@0.5.1) (2022-12-08)
+
+
+### Bug Fixes
+
+* **eslint-config:** include standard ([b6404e2](https://github.com/tkofh/eslint-config/commit/b6404e22567f738c4c2278135e88ef73bef5eea4))
+
+
+
+
+
 # [0.5.0](https://github.com/tkofh/eslint-config/compare/@tkofh/eslint-config@0.4.1...@tkofh/eslint-config@0.5.0) (2022-12-08)
 
 
